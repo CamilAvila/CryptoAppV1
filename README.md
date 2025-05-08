@@ -15,10 +15,9 @@ Una reconocida empresa del sector inmobiliario ha decidido apostar por el uso de
 ## 📚 Tabla de Contenido
 
 1. [Tecnologías y arquitectura](#tecnologías-y-arquitectura)
-2. [Repositorio](#📦-repositorio)
-3. [Pasos de instalación y ejecución](#🚀-pasos-de-instalación-y-ejecución)
-4. [Visualización en dispositivos](#📲-visualización-en-dispositivos)
-5. [Ejecución de pruebas](#🧪-ejecución-de-pruebas)
+2. [Pasos de instalación y ejecución](#🚀-pasos-de-instalación-y-ejecución)
+3. [Visualización en dispositivos](#📲-visualización-en-dispositivos)
+4. [Ejecución de pruebas](#🧪-ejecución-de-pruebas)
 
 ---
 
@@ -32,14 +31,6 @@ Una reconocida empresa del sector inmobiliario ha decidido apostar por el uso de
 * **Estructura del código:** Programación Orientada a Objetos (POO)
 * **Gestión de paquetes:** npm
 * **Entorno de desarrollo móvil:** Expo
-
----
-
-## 📦 Repositorio
-
-Puedes acceder al código fuente del proyecto a través del siguiente enlace:
-
-🔗 [GitHub - CriptoApp](https://github.com/tuusuario/CriptoApp) *(Reemplaza por tu link real)*
 
 ---
 
