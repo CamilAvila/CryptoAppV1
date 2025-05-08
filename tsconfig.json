@@ -1,6 +1,33 @@
 {
+  // Extiende la configuración base de Expo para TypeScript
   "extends": "expo/tsconfig.base",
+
   "compilerOptions": {
-    "strict": true
-  }
+    // Activa el modo estricto para mayor seguridad en el código
+    "strict": true,
+
+    // Establece que el código se compilará a la versión más reciente de ECMAScript
+    "target": "esnext",
+
+    // Usa módulos ECMAScript para importar/exportar
+    "module": "esnext",
+
+    // Configura JSX para React Native
+    "jsx": "react-native",
+
+    // Resolución de módulos como en Node.js
+    "moduleResolution": "node",
+
+    // Permite archivos JavaScript junto con TypeScript
+    "allowJs": true,
+
+    // Habilita la interoperabilidad con módulos ES
+    "esModuleInterop": true,
+
+    // Omite la verificación de tipos en archivos de librerías
+    "skipLibCheck": true
+  },
+
+  // Incluye solo el directorio "src" para que sea procesado por TypeScript
+  "include": ["src"]
 }
